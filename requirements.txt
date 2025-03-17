@@ -1,0 +1,6 @@
+google-cloud-monitoring
+pandas
+matplotlib
+seaborn
+numpy
+sklearn
